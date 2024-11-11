@@ -21,9 +21,6 @@ Feel free to connect with me if you’re working on something exciting in the AI
 - [Email](lakshyapaliwalodd@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/lakshya-paliwal-67a5222aa/)
 
-### 😄 Pronouns
-- He/Him
-
 <!---
 21lakshh/21lakshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
