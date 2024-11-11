@@ -12,9 +12,6 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 - Python Libraries: Tensorflow Scikit-learn Tkinter Seaborn Matplotlib
 - Machine Learning: Deep Learning Neural Networks 
 
-### 💼 Looking to Collaborate
-I'm open to collaborating on **AI/ML projects** 
-
 ### 📫 Reach Out to Me
 Feel free to connect with me if you’re working on something exciting in the AI/ML space! You can reach me via:
 
