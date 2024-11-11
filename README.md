@@ -9,7 +9,7 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 
 #### 🛠️ Skills
 - C C++ Java Python
-- Python Libraries Tensorflow Scikit-learn Tkinter Seaborn Matplotlib
+- Python Libraries: Tensorflow Scikit-learn Tkinter Seaborn Matplotlib
 - Machine Learning Deep Learning Neural Networks 
 
 ### 💼 Looking to Collaborate
