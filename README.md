@@ -18,8 +18,8 @@ I'm open to collaborating on **AI/ML projects**
 ### 📫 Reach Out to Me
 Feel free to connect with me if you’re working on something exciting in the AI/ML space! You can reach me via:
 
-- [Email](lakshyapaliwalodd@gmail.com) (replace with your actual email)
-- [LinkedIn](https://www.linkedin.com/in/lakshya-paliwal-67a5222aa/) (replace with your LinkedIn profile)
+- [Email](lakshyapaliwalodd@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lakshya-paliwal-67a5222aa/)
 
 ### 😄 Pronouns
 - He/Him
