@@ -8,7 +8,7 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 - Generative AI and its potential to innovate across fields
 
 #### 🛠️ Skills
-- C C++ Java Python
+- C C++ Java Python SQL
 - Python Libraries: Tensorflow Scikit-learn Tkinter Seaborn Matplotlib
 - Machine Learning: Deep Learning Neural Networks 
 
