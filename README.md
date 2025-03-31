@@ -58,12 +58,6 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 ![](https://nirzak-streak-stats.vercel.app/?user=21lakshh&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=21lakshh&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=21lakshh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=21lakshh&limit=5&theme=date_night&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=21lakshh&icon=6&color=3)](https://visitcount.itsvg.in)
 
