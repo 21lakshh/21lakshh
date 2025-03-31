@@ -1,5 +1,51 @@
-## 💫 About Me:
- 👋 Hi there, I'm @21lakshh<br><br> 👀 About Me<br>I'm deeply interested in AI and machine learning, currently diving into the world of **Deep Learning** and exploring **Generative AI**. My journey includes implementing various ML models and understanding how these algorithms can make a real-world impact. I am also diving into **Web Development**, participating in **Hackathons**, and integrating **Machine Learning models** into websites.<br><br>🌱 Currently Learning<br>- Deep Learning concepts and applications  <br>- Generative AI and its potential to innovate across fields  <br>- Web Development and full-stack integration<br><br> Projects<br><br> SignSync<br>**AI-powered learning application designed to bridge communication gaps for the Deaf and Mute community.** Using gesture detection and NLP techniques to convert American Sign Language (ASL) gestures into human-readable text.<br><br>- Used OpenCV and Mediapipe with custom training to detect specific hand gestures.<br>- Integrated a Large Language Model (LLM) to convert detected ASL gestures into meaningful, grammatically correct human language.<br>- Developed a FastAPI backend to enable seamless interaction between gesture detection and text transformation.<br>- [GitHub Repository](https://github.com/21lakshh/SignSync)<br>- Technologies: Mediapipe, OpenCV, FastAPI, TensorFlow, groqcloud<br><br>---<br><br> Woof<br>- Users can report stray dogs with GPS auto-detection, photo uploads, and an AI model that assesses the dog's health condition (Healthy, Injured, Critical).<br>- Implemented a DBSCAN algorithm with severity-based weighting and time decay to identify high-risk areas and display them using Folium Map.<br>- Retrieval-Augmented Generation (RAG) model to provide accurate responses about adoption procedures and policies, available dogs, and medical history, streamlining the adoption process.<br>- [GitHub Repository](https://github.com/21lakshh/woof)<br>- Technologies: Scikit-learn, Folium, FastAPI, groqcloud, LangChain<br><br>---<br><br> Car-Park-In-Go<br>- Built a user-friendly web interface to display real-time parking availability, ensuring seamless user interaction. Utilized Python with Flask for backend development.<br>- Each frame is processed to extract regions corresponding to predefined parking spaces. The CNN model classifies these regions as either "Occupied" or "Free".<br>- Provides an API endpoint to get the current count of free and occupied spaces.<br>- [GitHub Repository](https://github.com/21lakshh/Car-Park-In-Go)<br>- Technologies: Python, TensorFlow/Keras, Flask, OpenCV, Pickle, NumPy<br><br>---<br><br> Wanderwise-AI-Travel-Planner<br>- This application helps users generate personalized travel itineraries based on their city of choice, interests, and available time, while integrating real-time weather information and Google Maps links.<br>- Multi-Agent AI System: Implemented multiple AI agents for different tasks, ensuring an efficient travel planning process.<br>- **State Graph Workflow: Designed a structured itinerary-building process using LangGraph and custom state management.<br>- [GitHub Repository](https://github.com/21lakshh/Wanderwise-AI-Travel-Planner)<br>- Technologies: LangChain, LangGraph, Python, Weather API, Gradio<br>
+# 👋 Hi there, I'm @21lakshh
+
+## 👀 About Me
+I'm deeply interested in AI and machine learning, currently diving into the world of **Deep Learning** and exploring **Generative AI**. My journey includes implementing various ML models and understanding how these algorithms can make a real-world impact. I am also diving into **Web Development**, participating in **Hackathons**, and integrating **Machine Learning models** into websites.
+
+### 🌱 Currently Learning
+- Deep Learning concepts and applications  
+- Generative AI and its potential to innovate across fields  
+- Web Development and full-stack integration
+
+## Projects
+
+### **SignSync**
+**AI-powered learning application designed to bridge communication gaps for the Deaf and Mute community.** Using gesture detection and NLP techniques to convert American Sign Language (ASL) gestures into human-readable text.
+
+- Used OpenCV and Mediapipe with custom training to detect specific hand gestures.
+- Integrated a Large Language Model (LLM) to convert detected ASL gestures into meaningful, grammatically correct human language.
+- Developed a FastAPI backend to enable seamless interaction between gesture detection and text transformation.
+- [GitHub Repository](https://github.com/21lakshh/SignSync)
+- Technologies: Mediapipe, OpenCV, FastAPI, TensorFlow, groqcloud
+
+---
+
+### **Woof**
+- Users can report stray dogs with GPS auto-detection, photo uploads, and an AI model that assesses the dog's health condition (Healthy, Injured, Critical).
+- Implemented a DBSCAN algorithm with severity-based weighting and time decay to identify high-risk areas and display them using Folium Map.
+- Retrieval-Augmented Generation (RAG) model to provide accurate responses about adoption procedures and policies, available dogs, and medical history, streamlining the adoption process.
+- [GitHub Repository](https://github.com/21lakshh/woof)
+- Technologies: Scikit-learn, Folium, FastAPI, groqcloud, LangChain
+
+---
+
+### **Car-Park-In-Go**
+- Built a user-friendly web interface to display real-time parking availability, ensuring seamless user interaction. Utilized Python with Flask for backend development.
+- Each frame is processed to extract regions corresponding to predefined parking spaces. The CNN model classifies these regions as either "Occupied" or "Free".
+- Provides an API endpoint to get the current count of free and occupied spaces.
+- [GitHub Repository](https://github.com/21lakshh/Car-Park-In-Go)
+- Technologies: Python, TensorFlow/Keras, Flask, OpenCV, Pickle, NumPy
+
+---
+
+### **Wanderwise-AI-Travel-Planner**
+- This application helps users generate personalized travel itineraries based on their city of choice, interests, and available time, while integrating real-time weather information and Google Maps links.
+- Multi-Agent AI System: Implemented multiple AI agents for different tasks, ensuring an efficient travel planning process.
+- **State Graph Workflow**: Designed a structured itinerary-building process using LangGraph and custom state management.
+- [GitHub Repository](https://github.com/21lakshh/Wanderwise-AI-Travel-Planner)
+- Technologies: LangChain, LangGraph, Python, Weather API, Gradio
+
 
 
 ## 🌐 Socials:
