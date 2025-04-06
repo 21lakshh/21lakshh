@@ -11,7 +11,7 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 ## Projects
 
 ### **SignSync**
-**AI-powered learning application designed to bridge communication gaps for the Deaf and Mute community.** Using gesture detection and NLP techniques to convert American Sign Language (ASL) gestures into human-readable text.
+**AI-powered application designed to bridge communication gaps for the Deaf and Mute community.** Using gesture detection and NLP techniques to convert American Sign Language (ASL) gestures into human-readable text.
 
 - Used OpenCV and Mediapipe with custom training to detect specific hand gestures.
 - Integrated a Large Language Model (LLM) to convert detected ASL gestures into meaningful, grammatically correct human language.
