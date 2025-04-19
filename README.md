@@ -10,6 +10,19 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 
 ## Projects
 
+
+### Kisaan Saathi
+**AI-powered Farmer Dashboard** designed to empower Indian farmers through real-time intelligence, disease detection, and smart agricultural tools.
+
+- Used a custom-trained **Xception** model to detect **38 types of crop diseases**, with an **LLM backend** providing cause, prevention, and treatment insights.
+- Developed an **ML-powered Water Footprint Calculator** using a **Random Forest Regressor** for water requirement estimation.
+- Integrated a **multi-agent RAG-based Farmer AI Assistant** using **ChromaDB** and **LangChain** for context-aware farming guidance and mental health support.
+- Enabled **real-time market analysis** through agri-market APIs and **DBSCAN clustering** for disease hotspot mapping to aid land inspection prioritization.
+- [GitHub Repository](https://github.com/21lakshh/Kisaan-Sathi)  
+**Technologies:** FastAPI, TensorFlow, Scikit-learn, LangChain, LangGraph, ChromaDB, Groq LLM, Gemini API, TailwindCSS, Chart.js
+
+--- 
+
 ### **SignSync**
 **AI-powered application designed to bridge communication gaps for the Deaf and Mute community.** Using gesture detection and NLP techniques to convert American Sign Language (ASL) gestures into human-readable text.
 
@@ -38,15 +51,6 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 - Technologies: Python, TensorFlow/Keras, Flask, OpenCV, Pickle, NumPy
 
 ---
-
-### **Wanderwise-AI-Travel-Planner**
-- This application helps users generate personalized travel itineraries based on their city of choice, interests, and available time, while integrating real-time weather information and Google Maps links.
-- Multi-Agent AI System: Implemented multiple AI agents for different tasks, ensuring an efficient travel planning process.
-- **State Graph Workflow**: Designed a structured itinerary-building process using LangGraph and custom state management.
-- [GitHub Repository](https://github.com/21lakshh/Wanderwise-AI-Travel-Planner)
-- Technologies: LangChain, LangGraph, Python, Weather API, Gradio
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-paliwal-67a5222aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lakshh__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Laksh21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshyapaliwal200@gmail.com) 
