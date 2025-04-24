@@ -18,7 +18,7 @@ I'm deeply interested in AI and machine learning, currently diving into the worl
 - Developed an **ML-powered Water Footprint Calculator** using a **Random Forest Regressor** for water requirement estimation.
 - Integrated a **multi-agent RAG-based Farmer AI Assistant** using **ChromaDB** and **LangChain** for context-aware farming guidance and mental health support.
 - Enabled **real-time market analysis** through agri-market APIs and **DBSCAN clustering** for disease hotspot mapping to aid land inspection prioritization.
-- [GitHub Repository](https://github.com/21lakshh/Kisaan-Sathi)  
+- [GitHub Repository](https://github.com/21lakshh/Kisaan-Saathi)  
 **Technologies:** FastAPI, TensorFlow, Scikit-learn, LangChain, LangGraph, ChromaDB, Groq LLM, Gemini API, TailwindCSS, Chart.js
 
 --- 
